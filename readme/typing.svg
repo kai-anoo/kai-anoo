@@ -2,12 +2,12 @@
   <defs>
     <linearGradient id="typingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0F172A" />
-      <stop offset="50%" stop-color="#0369A1" />
-      <stop offset="100%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#F43F5E" />
+      <stop offset="100%" stop-color="#FECDD3" />
     </linearGradient>
   </defs>
   <rect width="1100" height="186" rx="16" fill="url(#typingGrad)" />
-  <text x="550" y="66" text-anchor="middle" fill="#38BDF8" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Applied AI is my day job</text>
-  <text x="550" y="112" text-anchor="middle" fill="#38BDF8" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">I need a dependable partner</text>
-  <text x="550" y="158" text-anchor="middle" fill="#38BDF8" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Close to $3,000 each month</text>
+  <text x="550" y="66" text-anchor="middle" fill="#FECDD3" font-family="Fira Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Production AI, not demos</text>
+  <text x="550" y="112" text-anchor="middle" fill="#FECDD3" font-family="Fira Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Let's work together on this</text>
+  <text x="550" y="158" text-anchor="middle" fill="#FECDD3" font-family="Fira Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Roughly $3,000/month available</text>
 </svg>
