@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="751" viewBox="0 0 1100 751" role="img">
   <defs>
     <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0E1016" />
-      <stop offset="50%" stop-color="#161B28" />
-      <stop offset="100%" stop-color="#222A3C" />
+      <stop offset="0%" stop-color="#140A0C" />
+      <stop offset="45%" stop-color="#221016" />
+      <stop offset="100%" stop-color="#3A1A22" />
     </linearGradient>
     <linearGradient id="bannerGradSheen" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10" />
@@ -13,20 +13,20 @@
   </defs>
   <rect width="1100" height="751" rx="22" fill="url(#bannerGrad)" />
   <rect width="1100" height="751" rx="22" fill="url(#bannerGradSheen)" />
-  <text x="550" y="64" text-anchor="middle" fill="#F8FAFC" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="0.5">Let's Create Together</text>
-  <line x1="420" y1="138" x2="680" y2="138" stroke="#93C5FD" stroke-width="1.5" stroke-opacity="0.45" />
-  <text x="550" y="172" text-anchor="middle" fill="#BFDBFE" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">Originally from Japan, now focused on senior</text>
-  <text x="550" y="210" text-anchor="middle" fill="#BFDBFE" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">AI engineering.</text>
-  <text x="550" y="248" text-anchor="middle" fill="#BFDBFE" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">I would like to create with a partner instead</text>
-  <text x="550" y="286" text-anchor="middle" fill="#BFDBFE" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">of hiring one-off help.</text>
-  <text x="550" y="324" text-anchor="middle" fill="#BFDBFE" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">There is close to $3,000 / month in it, with a</text>
-  <text x="550" y="362" text-anchor="middle" fill="#BFDBFE" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">relatively small time ask.</text>
-  <text x="550" y="430" text-anchor="middle" fill="#93C5FD" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Senior AI, Japan originally</text>
-  <text x="550" y="473" text-anchor="middle" fill="#93C5FD" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Let's create together</text>
-  <text x="550" y="516" text-anchor="middle" fill="#93C5FD" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Close to $3,000/month in it</text>
-  <path d="M456 595 L470 609 L484 595" fill="none" stroke="#93C5FD" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
-  <path d="M536 595 L550 609 L564 595" fill="none" stroke="#93C5FD" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
-  <path d="M616 595 L630 609 L644 595" fill="none" stroke="#93C5FD" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
-  <rect x="420" y="643" width="260" height="52" rx="26" fill="#DBEAFE" />
-  <text x="550" y="676" text-anchor="middle" fill="#0B1220" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="0.8">Visit website</text>
+  <text x="550" y="64" text-anchor="middle" fill="#F8FAFC" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="0.5">Let's Partner Up</text>
+  <line x1="420" y1="138" x2="680" y2="138" stroke="#FECACA" stroke-width="1.5" stroke-opacity="0.45" />
+  <text x="550" y="172" text-anchor="middle" fill="#FECDD3" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">Japanese origin, senior AI engineer, running a</text>
+  <text x="550" y="210" text-anchor="middle" fill="#FECDD3" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">growing practice.</text>
+  <text x="550" y="248" text-anchor="middle" fill="#FECDD3" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">I want to partner up with someone who treats</text>
+  <text x="550" y="286" text-anchor="middle" fill="#FECDD3" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">this as a long game.</text>
+  <text x="550" y="324" text-anchor="middle" fill="#FECDD3" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">There is nearly $3,000 / month for relatively</text>
+  <text x="550" y="362" text-anchor="middle" fill="#FECDD3" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">little weekly effort.</text>
+  <text x="550" y="430" text-anchor="middle" fill="#FECACA" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Growing an AI practice</text>
+  <text x="550" y="473" text-anchor="middle" fill="#FECACA" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Let's partner up for the long run</text>
+  <text x="550" y="516" text-anchor="middle" fill="#FECACA" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Nearly $3,000/month, light lift</text>
+  <path d="M456 595 L470 609 L484 595" fill="none" stroke="#FECACA" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <path d="M536 595 L550 609 L564 595" fill="none" stroke="#FECACA" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <path d="M616 595 L630 609 L644 595" fill="none" stroke="#FECACA" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <rect x="420" y="643" width="260" height="52" rx="26" fill="#FFE4E6" />
+  <text x="550" y="676" text-anchor="middle" fill="#4C0519" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="0.8">Visit website</text>
 </svg>
