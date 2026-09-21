@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="288" viewBox="0 0 1100 288" role="img">
+  <defs>
+    <linearGradient id="introGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B0764" />
+      <stop offset="50%" stop-color="#F97316" />
+      <stop offset="100%" stop-color="#FED7AA" />
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="288" rx="16" fill="url(#introGrad)" />
+  <text x="550" y="62" text-anchor="middle" fill="#FFFFFF" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">I would rather be building together. Senior</text>
+  <text x="550" y="102" text-anchor="middle" fill="#FFFFFF" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">AI, Japan originally.</text>
+  <text x="550" y="142" text-anchor="middle" fill="#FFFFFF" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">A shared practice should be worthwhile on both</text>
+  <text x="550" y="182" text-anchor="middle" fill="#FFFFFF" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">sides.</text>
+  <text x="550" y="222" text-anchor="middle" fill="#FFFFFF" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">Expect nearly $3,000 a month for a relatively</text>
+  <text x="550" y="262" text-anchor="middle" fill="#FFFFFF" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">small, steady role.</text>
+</svg>
